@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle fill="#DB4437" cx="12" cy="12" r="12"/>
-        <circle fill="#FFFFFF" cx="12" cy="12" r="5"/>
-        <circle fill="#4285F4" cx="12" cy="12" r="4"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><circle cx="12" cy="12" r="12" fill="#DB4437"/><circle cx="12" cy="12" r="5" fill="#FFF"/><circle cx="12" cy="12" r="4" fill="#4285F4"/></g></svg>
